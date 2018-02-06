@@ -1,0 +1,194 @@
+.groot {
+
+}
+
+.middel {
+    margin-left: 32%;
+}
+
+.dagen {
+   display: flex;
+
+}
+
+.maandag {
+    margin-right: 5%;
+}
+
+.dinsdag {
+    margin-right: 5%;
+}
+
+.woensdag {
+    margin-right: 5%;
+}
+
+.donderdag {
+    margin-right: 5%;
+}
+
+.vrijdag {
+  margin-right: 5%;
+}
+
+.zaterdag {
+  margin-right: 5%;
+}
+
+.zondag {
+  margin-right: 5%;
+}
+
+.datum {
+  display: flex;
+}
+
+.dag1 {
+  border-style: solid;
+  width: 70px;
+ height: 70px;
+}
+
+.dag2 {
+  border-style: solid;
+  margin-left: 105px;
+  margin-top: -52px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag3 {
+  border-style: solid;
+  margin-left: 110px;
+  margin-top: -52px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag4 {
+  border-style: solid;
+  margin-left: 325px;
+  margin-top: -73px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag5 {
+  border-style: solid;
+  margin-left: 440px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag6 {
+  border-style: solid;
+  margin-left: 550px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag7 {
+  border-style: solid;
+  margin-left: 650px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag8 {
+  border-style: solid;
+  margin-left: -2px;
+  margin-top: 10px;
+  width: 70px;
+ height: 70px;
+}
+
+.dag9 {
+  border-style: solid;
+  margin-left: 105px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag10 {
+  border-style: solid;
+  margin-left: 217px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag11 {
+  border-style: solid;
+  margin-left: 324px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag12 {
+  border-style: solid;
+  margin-left: 114px;
+  margin-top: -53px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag13 {
+  border-style: solid;
+  margin-left: 224px;
+  margin-top: -73px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag14 {
+  border-style: solid;
+  margin-left: 324px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag15 {
+  border-style: solid;
+  margin-left: -328px;
+  margin-top: 10px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag16 {
+  border-style: solid;
+  margin-left: -222px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag17 {
+  border-style: solid;
+  margin-left: -110px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag18 {
+  border-style: solid;
+  margin-left: -3px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
+
+.dag19 {
+  border-style: solid;
+  margin-left: 113px;
+  margin-top: -75px;
+  width: 70px;
+  height: 70px;
+}
